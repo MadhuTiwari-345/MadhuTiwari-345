@@ -51,6 +51,7 @@ Building AI-powered systems with clean architecture & production-ready design.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MadhuTiwari-345&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MadhuTiwari-345&theme=tokyonight" />
 </p>
 
 
