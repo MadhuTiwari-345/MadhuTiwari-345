@@ -9,6 +9,10 @@ AI & ML Engineer • Open-Source Contributor • Full-Stack Developer
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+Systems;Full-Stack+Developer;Open-Source+Contributor;Learning+Scalable+Architecture;Shipping+Production-Ready+Software" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MadhuTiwari-345&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -17,7 +21,7 @@ AI & ML Engineer • Open-Source Contributor • Full-Stack Developer
 - 📍 New Delhi, India  
 - 🔭 Building AI-driven platforms & scalable backend systems  
 - 🌱 Exploring AI agents, system design & testing strategies  
-- 💡 Focused on clean architecture + real-world usability  
+- 💡 Focused on clean architecture & real-world usability  
 
 ---
 
@@ -51,7 +55,15 @@ AI & ML Engineer • Open-Source Contributor • Full-Stack Developer
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhuTiwari-345&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MadhuTiwari-345&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MadhuTiwari-345&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -79,14 +91,6 @@ AI-powered phishing detection
 ### 🔹 MicroClimate  
 AI-driven weather anomaly analytics  
 [![Repository](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/MicroClimate)
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MadhuTiwari-345&theme=tokyo-night&hide_border=true" />
-</p>
 
 ---
 
