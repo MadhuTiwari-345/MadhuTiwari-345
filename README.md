@@ -10,7 +10,7 @@ Building AI-powered systems with clean architecture & production-ready design.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MadhuTiwari-345&label=Profile%20Views&color=0e75b6&style=flat" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MadhuTiwari-345&theme=tokyonight" />
 </p>
 
 ---
