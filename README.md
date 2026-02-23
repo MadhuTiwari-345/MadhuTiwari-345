@@ -6,7 +6,7 @@ AI & ML Engineer • Open-Source Contributor • Full-Stack Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+Systems;Full-Stack+Developer;Open-Source+Contributor;Learning+Scalable+Architecture;Shipping+Production-Ready+Software" />
+Building AI-powered systems with clean architecture & production-ready design.
 </p>
 
 <p align="center">
@@ -20,8 +20,8 @@ AI & ML Engineer • Open-Source Contributor • Full-Stack Developer
 - 🎓 B.Tech CSE (AI & ML), MUIT Noida (2024–2028)  
 - 📍 New Delhi, India  
 - 🔭 Building AI-driven platforms & scalable backend systems  
-- 🌱 Exploring AI agents, system design & testing strategies  
-- 💡 Focused on clean architecture & real-world usability  
+- 🌱 Exploring AI agents, system design & backend optimization  
+- 💡 Focused on clean architecture, performance & real-world usability  
 
 ---
 
@@ -58,48 +58,40 @@ AI & ML Engineer • Open-Source Contributor • Full-Stack Developer
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhuTiwari-345&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MadhuTiwari-345&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MadhuTiwari-345&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 Legal AI  
 AI-powered legal research assistant  
-[![Repository](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/Generative-AI-Demystifying-Legal-Documents)
+[View Repository](https://github.com/MadhuTiwari-345/Generative-AI-Demystifying-Legal-Documents)
 
 ---
 
 ### 🔹 FarmChain  
 Decentralized supply chain platform  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://farm-chain-blue.vercel.app/)
+[Live Demo](https://farm-chain-blue.vercel.app/)
 
 ---
 
 ### 🔹 PhisBuster  
 AI-powered phishing detection  
-[![Repository](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/javadominic/BuildathonxLorn)
+[View Repository](https://github.com/javadominic/BuildathonxLorn)
 
 ---
 
 ### 🔹 MicroClimate  
 AI-driven weather anomaly analytics  
-[![Repository](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/MicroClimate)
+[View Repository](https://github.com/MadhuTiwari-345/MicroClimate)
 
 ---
 
 ## 🌍 Open Source
 
-✨ GirlScript Summer of Code 2025  
-✨ Social Winter of Code 2026  
-✨ Elite Coders Winter of Code 2026  
-✨ Open Source Connect Global 2026  
+- ✨ GirlScript Summer of Code 2025  
+- ✨ Social Winter of Code 2026  
+- ✨ Elite Coders Winter of Code 2026  
+- ✨ Open Source Connect Global 2026  
 
 ---
 
