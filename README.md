@@ -50,12 +50,12 @@ Building AI-powered systems with clean architecture & production-ready design.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadhuTiwari-345&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MadhuTiwari-345&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
   <img src="https://streak-stats.demolab.com?user=MadhuTiwari-345&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhuTiwari-345&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhuTiwari-345&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
 </p>
 
 ---
@@ -64,25 +64,26 @@ Building AI-powered systems with clean architecture & production-ready design.
 
 ### 🔹 Legal AI  
 AI-powered legal research assistant  
-[View Repository](https://github.com/MadhuTiwari-345/Generative-AI-Demystifying-Legal-Documents)
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/Generative-AI-Demystifying-Legal-Documents)
 
 ---
 
 ### 🔹 FarmChain  
 Decentralized supply chain platform  
-[Live Demo](https://farm-chain-blue.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://farm-chain-blue.vercel.app/)
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345)
 
 ---
 
 ### 🔹 PhisBuster  
 AI-powered phishing detection  
-[View Repository](https://github.com/javadominic/BuildathonxLorn)
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/javadominic/BuildathonxLorn)
 
 ---
 
 ### 🔹 MicroClimate  
 AI-driven weather anomaly analytics  
-[View Repository](https://github.com/MadhuTiwari-345/MicroClimate)
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/MicroClimate)
 
 ---
 
