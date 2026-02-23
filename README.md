@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Madhu Tiwari</h1>
+<!-- Animated Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=200&section=header&text=Madhu%20Tiwari&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <h3 align="center">
-B.Tech CSE (AI & ML) | Open-Source Contributor | Full-Stack Developer
+AI & ML Engineer • Open-Source Contributor • Full-Stack Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+systems;Open-Source+Contributor;Full-Stack+Developer;Learning+Scalable+System+Design;Shipping+Production-Ready+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+Systems;Full-Stack+Developer;Open-Source+Contributor;Learning+Scalable+Architecture;Shipping+Production-Ready+Software" />
 </p>
 
 ---
@@ -13,10 +14,10 @@ B.Tech CSE (AI & ML) | Open-Source Contributor | Full-Stack Developer
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE (AI & ML), MUIT Noida (2024–2028)  
-- 📍 Based in New Delhi, India  
-- 🔭 Building AI-powered platforms & scalable systems  
-- 🌱 Learning system design, AI agents & testing strategies  
-- 💬 Ask me about React, Spring Boot, APIs, Databases & OSS  
+- 📍 New Delhi, India  
+- 🔭 Building AI-driven platforms & scalable backend systems  
+- 🌱 Exploring AI agents, system design & testing strategies  
+- 💡 Focused on clean architecture + real-world usability  
 
 ---
 
@@ -27,14 +28,14 @@ B.Tech CSE (AI & ML) | Open-Source Contributor | Full-Stack Developer
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 ### ⚙ Backend
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🗄 Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -42,11 +43,15 @@ B.Tech CSE (AI & ML) | Open-Source Contributor | Full-Stack Developer
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadhuTiwari-345&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=MadhuTiwari-345&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MadhuTiwari-345&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=MadhuTiwari-345&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MadhuTiwari-345&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -55,16 +60,33 @@ B.Tech CSE (AI & ML) | Open-Source Contributor | Full-Stack Developer
 
 ### 🔹 Legal AI  
 AI-powered legal research assistant  
-MERN + Firebase  
+[![Repository](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/Generative-AI-Demystifying-Legal-Documents)
+
+---
 
 ### 🔹 FarmChain  
-Decentralized supply chain platform (Web3 + IPFS)  
+Decentralized supply chain platform  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://farm-chain-blue.vercel.app/)
+
+---
 
 ### 🔹 PhisBuster  
-AI-based phishing detection system  
+AI-powered phishing detection  
+[![Repository](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/javadominic/BuildathonxLorn)
+
+---
 
 ### 🔹 MicroClimate  
-AI-driven anomaly detection for climate analytics  
+AI-driven weather anomaly analytics  
+[![Repository](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/MicroClimate)
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MadhuTiwari-345/MadhuTiwari-345/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
@@ -93,6 +115,4 @@ AI-driven anomaly detection for climate analytics
 
 ---
 
-<p align="center">
-  ⚡ "Learning fast. Building real systems. Shipping consistently."
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C2FF&height=120&section=footer"/>
