@@ -76,7 +76,7 @@ Building AI-powered systems with clean architecture & production-ready design.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MadhuTiwari-345&theme=dark&hide_border=false" height="170"/>
+  <img src="" height="170"/>
 </p>
 
 
