@@ -89,13 +89,17 @@ Building AI-powered systems with clean architecture & production-ready design.
 ## 🚀 Featured Projects
 
 ### 🔹 Legal AI  
+
 AI-powered legal research assistant  
+
 [![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/Generative-AI-Demystifying-Legal-Documents)
 
 ---
 
 ### 🔹 FarmChain  
+
 Decentralized supply chain platform  
+
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://farm-chain-blue.vercel.app/)
 [![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345)
 
