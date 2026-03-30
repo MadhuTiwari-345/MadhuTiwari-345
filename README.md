@@ -102,13 +102,17 @@ Decentralized supply chain platform
 ---
 
 ### 🔹 PhisBuster  
+
 AI-powered phishing detection  
+
 [![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/javadominic/BuildathonxLorn)
 
 ---
 
 ### 🔹 MicroClimate  
+
 AI-driven weather anomaly analytics  
+
 [![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/MicroClimate)
 
 ---
