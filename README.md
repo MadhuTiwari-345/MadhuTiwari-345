@@ -99,15 +99,6 @@ Smart Agri Supply Chain Platform
 
 ---
 
-### 🔹 Micro Climate  
-
-AI-driven weather anomaly analytics  
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://ais-dev-dx46xr5zdgrskfd6er4k6h-245177488488.asia-southeast1.run.app/) 
-[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/MicroClimate)
-
----
-
 ### 🔹 Phis-Buster  
 
 AI-powered phishing detection  
@@ -116,6 +107,15 @@ AI-powered phishing detection
 [![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/javadominic/BuildathonxLorn)
 
 ---
+
+### 🔹 Farm Chain  
+
+Decentralized supply chain platform  
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://farm-chain-blue.vercel.app/)
+
+---
+
 ### 🔹 Legal AI  
 
 AI-powered legal research assistant  
@@ -124,11 +124,12 @@ AI-powered legal research assistant
 
 ---
 
-### 🔹 Farm Chain  
+### 🔹 Micro Climate  
 
-Decentralized supply chain platform  
+AI-driven weather anomaly analytics  
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://farm-chain-blue.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://ais-dev-dx46xr5zdgrskfd6er4k6h-245177488488.asia-southeast1.run.app/) 
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/MicroClimate)
 
 ---
 
