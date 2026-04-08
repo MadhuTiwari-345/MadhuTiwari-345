@@ -18,7 +18,7 @@ Building intelligent systems with elegance, creativity & power 🌸
 ## 🌷 About Me
 
 <p align="center">
-  <img width="200" style="border-radius:20px;" src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000d27471fa9ebeb95bd22113ea&ts=493240&p=fs&cid=1&sig=ed8aded34a2b2b0d789879947632237efef808cf084f098e408520d402c95ed4&v=0"/>
+  <img width="200" style="border-radius:20px;" src="https://www.google.com/imgres?q=anime%20girl%20tech&imgurl=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20250818%2Foriginal%2Fpngtree-cyberpunk-anime-girl-tech-wallpaper-glitch-scanlines-chromatic-aberration-png-image_21870817.png&imgrefurl=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fcyberpunk-anime-girl-tech-wallpaper-glitch-scanlines-chromatic-aberration_21870817.html&docid=ic6m9thbz_Q5lM&tbnid=R0WXqFuDPFi2NM&vet=12ahUKEwjv-rXp196TAxUpTWcHHQOAExUQnPAOegQISRAB..i&w=2500&h=2500&hcb=2&ved=2ahUKEwjv-rXp196TAxUpTWcHHQOAExUQnPAOegQISRAB"/>
 </p>
 
 - 🎓 B.Tech CSE (AI & ML), MUIT Noida (2024–2028)  
