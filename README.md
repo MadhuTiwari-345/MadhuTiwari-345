@@ -18,7 +18,7 @@ Building intelligent systems with elegance, creativity & power 🌸
 ## 🌷 About Me
 
 <p align="center">
-  <img width="200" style="border-radius:20px;" src="https://cdn-icons-png.flaticon.com/512/6997/6997662.png"/>
+  <img width="200" style="border-radius:20px;" src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000d27471fa9ebeb95bd22113ea&ts=493240&p=fs&cid=1&sig=ed8aded34a2b2b0d789879947632237efef808cf084f098e408520d402c95ed4&v=0"/>
 </p>
 
 - 🎓 B.Tech CSE (AI & ML), MUIT Noida (2024–2028)  
