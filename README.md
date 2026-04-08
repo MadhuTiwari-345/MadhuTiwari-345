@@ -83,6 +83,8 @@ Smart Agri Supply Chain
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://kisanosprojectcheck.vercel.app/) 
 [![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/Kisan-OS)
 
+---
+
 ### 🌸 Phis-Buster
 
 AI-powered phishing detection
@@ -90,17 +92,23 @@ AI-powered phishing detection
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://buildathonxlorn.vercel.app/) 
 [![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/javadominic/BuildathonxLorn)
 
+---
+
 ### 🌸 Farm Chain
 
 Decentralized supply chain
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://farm-chain-blue.vercel.app/)
 
+---
+
 ### 🌸 Legal AI
 
 AI-powered legal assistant
 
 [![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/Generative-AI-Demystifying-Legal-Documents)
+
+---
 
 ### 🌸 Micro Climate
 
