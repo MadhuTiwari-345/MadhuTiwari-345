@@ -18,7 +18,7 @@ Building intelligent systems with elegance, creativity & power 🌸
 ## 🌷 About Me
 
 <p align="center">
-  <img width="240" style="border-radius:20px; box-shadow:0 0 20px rgba(255,105,180,0.5);" src="https://raw.githubusercontent.com/MadhuTiwari-345/MadhuTiwari-345/main/C:\Users\mt149\Downloads\GitHub\girl-coder.png"/>
+  <img width="240" style="border-radius:20px;" src="https://raw.githubusercontent.com/MadhuTiwari-345/MadhuTiwari-345/main/girl-coder.png"/>
 </p>
 
 - 🎓 B.Tech CSE (AI & ML), MUIT Noida (2024–2028)  
