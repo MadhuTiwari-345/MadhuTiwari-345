@@ -17,7 +17,7 @@ Building intelligent systems with elegance, creativity & power 🌸
 
 ## 🌷 About Me
 
-<img align="right" width="220" src="https://i.pinimg.com/originals/8b/6f/1c/8b6f1c1c7f2c3f8b2a91b2c8f5d3c2c7.png"/>
+<img align="right" width="220" style="border-radius:20px;" src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png"/>
 
 - 🎓 B.Tech CSE (AI & ML), MUIT Noida (2024–2028)  
 - 📍 New Delhi, India  
@@ -96,8 +96,8 @@ Weather anomaly analytics
 
 ✨ GirlScript Summer of Code  
 ✨ Social Winter of Code  
-✨ Elite Coders Winter of Code
-✨ Apertre 3.0
+✨ Elite Coders Winter of Code  
+✨ Apertre 3.0  
 ✨ Open Source Connect  
 
 ---
