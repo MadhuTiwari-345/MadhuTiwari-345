@@ -17,7 +17,9 @@ Building intelligent systems with elegance, creativity & power 🌸
 
 ## 🌷 About Me
 
-<img align="right" width="220" style="border-radius:20px;" src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png"/>
+<p align="center">
+  <img width="200" style="border-radius:20px;" src="https://cdn-icons-png.flaticon.com/512/6997/6997662.png"/>
+</p>
 
 - 🎓 B.Tech CSE (AI & ML), MUIT Noida (2024–2028)  
 - 📍 New Delhi, India  
