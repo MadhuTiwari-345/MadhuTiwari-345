@@ -18,7 +18,7 @@ Building intelligent systems with elegance, creativity & power 🌸
 ## 🌷 About Me
 
 <p align="center">
-  <img width="200" style="border-radius:20px;" src="https://www.google.com/imgres?q=anime%20girl%20tech&imgurl=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20250818%2Foriginal%2Fpngtree-cyberpunk-anime-girl-tech-wallpaper-glitch-scanlines-chromatic-aberration-png-image_21870817.png&imgrefurl=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fcyberpunk-anime-girl-tech-wallpaper-glitch-scanlines-chromatic-aberration_21870817.html&docid=ic6m9thbz_Q5lM&tbnid=R0WXqFuDPFi2NM&vet=12ahUKEwjv-rXp196TAxUpTWcHHQOAExUQnPAOegQISRAB..i&w=2500&h=2500&hcb=2&ved=2ahUKEwjv-rXp196TAxUpTWcHHQOAExUQnPAOegQISRAB"/>
+  <img width="240" style="border-radius:20px; box-shadow:0 0 20px rgba(255,105,180,0.5);" src="https://raw.githubusercontent.com/MadhuTiwari-345/MadhuTiwari-345/main/girl-coder.png"/>
 </p>
 
 - 🎓 B.Tech CSE (AI & ML), MUIT Noida (2024–2028)  
