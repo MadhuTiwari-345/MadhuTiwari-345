@@ -21,7 +21,7 @@ Building intelligent systems with elegance, creativity & power 🌸
   <img width="240" style="border-radius:20px;" src="https://raw.githubusercontent.com/MadhuTiwari-345/MadhuTiwari-345/main/girl-coder.png"/>
 </p>
 
-- 🎓 B.Tech CSE (AI & ML), MUIT Noida (2024–2028)  
+- 🎓 B.Tech Computer & Data Science Specialization in (AI & ML), MUIT Noida (2024–2028)  
 - 📍 New Delhi, India  
 - 💻 Building AI-powered platforms & scalable systems  
 - 🌸 Exploring AI agents, backend systems & clean architecture  
