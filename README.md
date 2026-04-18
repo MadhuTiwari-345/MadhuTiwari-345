@@ -93,6 +93,14 @@ AI-powered phishing detection
 [![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/javadominic/BuildathonxLorn)
 
 ---
+### 🌸 FemtoGuard
+
+A Real-Time Audio Fraud Detection System that focuses on detecting fraudulent intent and manipulative behavior during live conversations before irreversible financial actions occur.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://shestorm-ai-fraud-defender-73291669658.us-west1.run.app/) 
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/GFGBQ-Team-shestorm)
+
+---
 
 ### 🌸 Farm Chain
 
