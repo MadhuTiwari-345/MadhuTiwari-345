@@ -145,7 +145,7 @@ Weather anomaly analytics Real-time Micro-Climate Forecasting & Anomaly Detectio
 ✨ Apertre 3.0
 
  <a href="https://media.licdn.com/dms/image/v2/D4D2DAQEvChaJaQwFrA/profile-treasury-image-shrink_800_800/B4DZ1tnNpoI4AY-/0/1775660492294?e=1777140000&v=beta&t=eethiXwiBLUiTawCGWUO0MM25NYdEoa7dGGqsdqk9U8">
-    <img src="https://img.shields.io/badge/APERTRE 3.0-ff85a2?style=for-the-badge&logo=APERTRE 3.0&logoColor=white"/>
+    <img src="https://img.shields.io/badge/APERTRE-ff85a2?style=for-the-badge&logo=APERTRE&logoColor=white"/>
   </a>
 
 ✨ Open Source Connect
