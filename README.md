@@ -77,8 +77,9 @@ Building intelligent systems with elegance, creativity & power 🌸
 
 ## 💖 Featured Projects
 
-### 🌸 Kisan OS  
-Smart Agri Supply Chain 
+### 🌸 Kisan OS
+
+AI-powered digital marketplace and logistics platform connecting farmers, mandis, buyers, and transporters to create a transparent and efficient agricultural supply chain.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://kisanosprojectcheck.vercel.app/) 
 [![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/Kisan-OS)
@@ -87,12 +88,13 @@ Smart Agri Supply Chain
 
 ### 🌸 Phis-Buster
 
-AI-powered phishing detection
+AI-powered phishing detection. An interactive phishing detection training platform that helps users learn to identify and protect themselves from phishing attacks through gamified learning experiences.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://buildathonxlorn.vercel.app/) 
 [![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/javadominic/BuildathonxLorn)
 
 ---
+
 ### 🌸 FemtoGuard
 
 A Real-Time Audio Fraud Detection System that focuses on detecting fraudulent intent and manipulative behavior during live conversations before irreversible financial actions occur.
@@ -104,7 +106,7 @@ A Real-Time Audio Fraud Detection System that focuses on detecting fraudulent in
 
 ### 🌸 Farm Chain
 
-Decentralized supply chain
+Decentralized supply chain for Farmers 
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://farm-chain-blue.vercel.app/)
 
@@ -112,7 +114,7 @@ Decentralized supply chain
 
 ### 🌸 Legal AI
 
-AI-powered legal assistant
+AI-powered legal assistant a system that bridges the gap between legal complexity and everyday understanding.
 
 [![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/Generative-AI-Demystifying-Legal-Documents)
 
@@ -120,7 +122,7 @@ AI-powered legal assistant
 
 ### 🌸 Micro Climate
 
-Weather anomaly analytics
+Weather anomaly analytics Real-time Micro-Climate Forecasting & Anomaly Detection for Hyper-Local Regions
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://ais-dev-dx46xr5zdgrskfd6er4k6h-245177488488.asia-southeast1.run.app/) 
 [![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/MicroClimate)
