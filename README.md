@@ -124,7 +124,6 @@ AI-powered legal assistant a system that bridges the gap between legal complexit
 
 Weather anomaly analytics Real-time Micro-Climate Forecasting & Anomaly Detection for Hyper-Local Regions
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://ais-dev-dx46xr5zdgrskfd6er4k6h-245177488488.asia-southeast1.run.app/) 
 [![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/MicroClimate)
 
 ---
