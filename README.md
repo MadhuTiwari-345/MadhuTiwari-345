@@ -15,7 +15,8 @@ Building intelligent systems with elegance, creativity & power 🌸
 
 ---
 
-## 🌷 About Me
+<h2 align="center">🌷 About Me</h2>
+
 
 <p align="center">
   <img width="240" style="border-radius:20px;" src="https://raw.githubusercontent.com/MadhuTiwari-345/MadhuTiwari-345/main/girl-coder.png"/>
@@ -29,7 +30,8 @@ Building intelligent systems with elegance, creativity & power 🌸
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
+
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=java&logoColor=white)
@@ -67,7 +69,8 @@ Building intelligent systems with elegance, creativity & power 🌸
 
 ---
 
-## 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
+
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=MadhuTiwari-345&theme=radical&hide_border=false"/>
@@ -75,7 +78,8 @@ Building intelligent systems with elegance, creativity & power 🌸
 
 ---
 
-## 💖 Featured Projects
+<h2 align="center">💖 Featured Projects</h2>
+
 
 ### 🌸 Kisan OS
 
@@ -131,6 +135,7 @@ Weather anomaly analytics Real-time Micro-Climate Forecasting & Anomaly Detectio
 
 <h2 align="center">🌍 Open Source</h2>
 
+
 <p align="center">
   <a href="https://media.licdn.com/dms/image/v2/D562DAQFBtBdO6N5UGQ/profile-treasury-image-shrink_800_800/B56Z2FLYPHH4AY-/0/1776055846904?e=1777140000&v=beta&t=FjoF3H-0NmZdvxRToHIdQ3aF2h6IWu2TQDMdV8VPBlg">
     <img src="https://img.shields.io/badge/SWOC-Social%20Winter%20of%20Code-ff85a2?style=for-the-badge"/>
@@ -155,7 +160,8 @@ Weather anomaly analytics Real-time Micro-Climate Forecasting & Anomaly Detectio
 
 ---
 
-## 🤝 Connect With Me
+<h2 align="center">🤝 Connect With Me</h2>
+
 
 <p align="center">
   <a href="mailto:mt1499961@gmail.com">
