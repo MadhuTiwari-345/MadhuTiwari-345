@@ -109,6 +109,7 @@ A Real-Time Audio Fraud Detection System that focuses on detecting fraudulent in
 Decentralized supply chain for Farmers 
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://farm-chain-blue.vercel.app/)
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/https://github.com/MadhuTiwari-345/FarmChain) 
 
 ---
 
