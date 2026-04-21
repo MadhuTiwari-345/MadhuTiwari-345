@@ -144,11 +144,11 @@ Weather anomaly analytics Real-time Micro-Climate Forecasting & Anomaly Detectio
 
 <p align="center">
   <a href="https://media.licdn.com/dms/image/v2/D562DAQFBtBdO6N5UGQ/profile-treasury-image-shrink_800_800/B56Z2FLYPHH4AY-/0/1776055846904?e=1777140000&v=beta&t=FjoF3H-0NmZdvxRToHIdQ3aF2h6IWu2TQDMdV8VPBlg">
-    <img src="https://img.shields.io/badge/SWOC-Social%20Winter%20of%20Code-ff85a2?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/SWOC'26-Social%20Winter%20of%20Code-ff85a2?style=for-the-badge"/>
   </a>
   
   <a href="https://media.licdn.com/dms/image/v2/D562DAQHhaGYzyZZQGw/profile-treasury-image-shrink_1280_1280/B56Z0VoCAcHkAQ-/0/1774184309552?e=1777140000&v=beta&t=BD76m2QMFzBqrvqBlh93u5xtzrFdrQDbD92QOleiH5s">
-    <img src="https://img.shields.io/badge/ECWOC-Elite%20Coders%20WOC-ff85a2?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/ECWOC'26-Elite%20Coders%20WOC-ff85a2?style=for-the-badge"/>
   </a>
   
   <a href="https://media.licdn.com/dms/image/v2/D4D2DAQEvChaJaQwFrA/profile-treasury-image-shrink_800_800/B4DZ1tnNpoI4AY-/0/1775660492294?e=1777140000&v=beta&t=eethiXwiBLUiTawCGWUO0MM25NYdEoa7dGGqsdqk9U8">
@@ -156,11 +156,11 @@ Weather anomaly analytics Real-time Micro-Climate Forecasting & Anomaly Detectio
   </a>
   
   <a href="https://media.licdn.com/dms/image/v2/D4D2DAQFIScNpy5yCDw/profile-treasury-document-images_1280/B4DZ1tn1zCK4AU-/1/1775660666324?e=1777507200&v=beta&t=zh8XVLBcGPStGnwW8Vay338Wo89gyPb3XxisJl15Yp0">
-    <img src="https://img.shields.io/badge/OSCG-Open%20Source%20Connect-ff85a2?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/OSCG'26-Open%20Source%20Connect-ff85a2?style=for-the-badge"/>
   </a>
   
   <a href="https://media.licdn.com/dms/image/v2/D562DAQF898pIsL8Jlw/profile-treasury-image-shrink_1280_1280/B56ZiN0wo0H0AQ-/0/1754726076721?e=1777140000&v=beta&t=Y1_YvYz6L0D3Y10gMpk6O6kZQA0igC_uOaRjhDpC0xI">
-    <img src="https://img.shields.io/badge/GSSOC-GirlScript%20SoC-ff85a2?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/GSSOC'25-GirlScript%20SoC-ff85a2?style=for-the-badge"/>
   </a>
 </p>
 
