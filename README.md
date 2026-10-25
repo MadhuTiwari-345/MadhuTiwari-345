@@ -96,12 +96,30 @@ AI-powered digital marketplace and logistics platform connecting farmers, mandis
 
 ---
 
+### 🌸 Lex AI
+
+AI-powered legal assistant a system that bridges the gap between legal complexity and everyday understanding.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://lex-intelligence-beta.vercel.app/) 
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/Lex-Intelligence)
+
+---
+
 ### 🌸 Phis-Buster
 
 AI-powered phishing detection. An interactive phishing detection training platform that helps users learn to identify and protect themselves from phishing attacks through gamified learning experiences.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://buildathonxlorn.vercel.app/) 
 [![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/javadominic/BuildathonxLorn)
+
+---
+
+### 🌸 Micro Climate
+
+Weather anomaly analytics Real-time Micro-Climate Forecasting & Anomaly Detection for Hyper-Local Regions
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://microclimate-ten.vercel.app/)
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/MicroClimate)
 
 ---
 
@@ -114,29 +132,12 @@ A Real-Time Audio Fraud Detection System that focuses on detecting fraudulent in
 
 ---
 
-### 🌸 Farm Chain
+### 🌸 StormCycle
 
-Decentralized supply chain for Farmers 
+StormCycle is an AI - Powered Period Tracking and PCOD risk prediction system 
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://farm-chain-blue.vercel.app/)
-[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/https://github.com/MadhuTiwari-345/FarmChain) 
-
----
-
-### 🌸 Lex AI
-
-AI-powered legal assistant a system that bridges the gap between legal complexity and everyday understanding.
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://lex-intelligence-beta.vercel.app/) 
-[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/Lex-Intelligence)
----
-
-### 🌸 Micro Climate
-
-Weather anomaly analytics Real-time Micro-Climate Forecasting & Anomaly Detection for Hyper-Local Regions
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://microclimate-ten.vercel.app/)
-[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/MicroClimate)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://stormcycle.vercel.app/)
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/StormCycle) 
 
 ---
 
