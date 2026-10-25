@@ -91,7 +91,7 @@ Building intelligent systems with elegance, creativity & power 🌸
 
 AI-powered digital marketplace and logistics platform connecting farmers, mandis, buyers, and transporters to create a transparent and efficient agricultural supply chain.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://kisanosprojectcheck.vercel.app/) 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://kisanos-zeta.vercel.app/) 
 [![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/Kisan-OS)
 
 ---
@@ -109,7 +109,7 @@ AI-powered phishing detection. An interactive phishing detection training platfo
 
 A Real-Time Audio Fraud Detection System that focuses on detecting fraudulent intent and manipulative behavior during live conversations before irreversible financial actions occur.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://shestorm-ai-fraud-defender-73291669658.us-west1.run.app/) 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://femtoguard.vercel.app/) 
 [![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/GFGBQ-Team-shestorm)
 
 ---
@@ -123,18 +123,19 @@ Decentralized supply chain for Farmers
 
 ---
 
-### 🌸 Legal AI
+### 🌸 Lex AI
 
 AI-powered legal assistant a system that bridges the gap between legal complexity and everyday understanding.
 
-[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/Generative-AI-Demystifying-Legal-Documents)
-
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://lex-intelligence-beta.vercel.app/) 
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/Lex-Intelligence)
 ---
 
 ### 🌸 Micro Climate
 
 Weather anomaly analytics Real-time Micro-Climate Forecasting & Anomaly Detection for Hyper-Local Regions
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](https://microclimate-ten.vercel.app/)
 [![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MadhuTiwari-345/MicroClimate)
 
 ---
