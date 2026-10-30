@@ -82,9 +82,8 @@ Building intelligent systems with elegance, creativity & power 🌸
 <p align="center">
   <a href="https://github.com/MadhuTiwari-345">
     <img
-      src="https://github.com/users/MadhuTiwari-345/contributions"
-      alt="Madhu Tiwari's GitHub Contributions"
-      width="100%"
+      src="./assets/streak.svg"
+      alt="Madhu Tiwari's GitHub Contribution Streak"
     />
   </a>
 </p>
