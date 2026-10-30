@@ -82,8 +82,9 @@ Building intelligent systems with elegance, creativity & power 🌸
 <p align="center">
   <a href="https://github.com/MadhuTiwari-345">
     <img
-      src="https://github-readme-streak-stats-eight.vercel.app/?user=MadhuTiwari-345&theme=radical&hide_border=false&timezone=Asia%2FKolkata"
-      alt="Madhu Tiwari's GitHub Streak"
+      src="https://github.com/users/MadhuTiwari-345/contributions"
+      alt="Madhu Tiwari's GitHub Contributions"
+      width="100%"
     />
   </a>
 </p>
