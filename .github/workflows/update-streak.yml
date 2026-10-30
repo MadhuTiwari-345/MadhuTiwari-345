@@ -1,0 +1,35 @@
+name: Update GitHub Contribution Streak
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v6
+
+      - name: Generate contribution streak card
+        uses: zients/github-readme-streak-stats@v2
+        with:
+          options: user=MadhuTiwari-345&theme=radical&hide_border=false&disable_animations=true
+          path: assets/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated card
+        run: |
+          git add assets/streak.svg
+          if git diff --cached --quiet -- assets/streak.svg; then
+            echo "Streak card is already up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update GitHub contribution streak"
+          git push
