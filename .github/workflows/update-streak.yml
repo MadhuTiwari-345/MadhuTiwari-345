@@ -18,9 +18,9 @@ jobs:
       - name: Generate contribution streak card
         uses: zients/github-readme-streak-stats@v2
         with:
-          options: user=MadhuTiwari-345&theme=radical&hide_border=false&disable_animations=true
+          options: user=MadhuTiwari-345&starting_year=2025&theme=radical&hide_border=false&disable_animations=true
           path: assets/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Commit updated card
         run: |
